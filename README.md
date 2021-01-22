@@ -23,4 +23,4 @@ My most notable projects and contributions are:
   * [glosm](https://github.com/AMDmi3/glosm), a realtime 3D OpenStreetMap renderer
   * [streetmangler](https://github.com/AMDmi3/streetmangler), a street name normalization tool for OSM
 * I took part in making classic [Vangers](https://github.com/KranX/Vangers) game cross-platform and available under Linux
-* I've contributed to [hundreds](https://www.openhub.net/accounts/AMDmi3/positions) of other F/OSS projects
+* I've contributed to [hundreds](https://www.openhub.net/accounts/AMDmi3/positions) other F/OSS projects
