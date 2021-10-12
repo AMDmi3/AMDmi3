@@ -3,7 +3,7 @@
 My primary languages are C++ and Python, interests include FreeBSD, software packaging and F/OSS gamedev.
 
 My most notable projects and contributions are:
-* I maintain over 350 ports and have made over 10k commits to [FreeBSD ports collection](https://www.freebsd.org/ports/)
+* I maintain over 350 ports and have made over 15k commits to [FreeBSD ports collection](https://www.freebsd.org/ports/)
 * I'm author of [Repology](https://repology.org/), a service which aggregates packaging information from over 300 repositories for the benefit of software authors and package maintainers
 * I maintain some C++ libraries:
   * [libversion](https://github.com/repology/libversion/), a library to compare software versions in all their veriety
