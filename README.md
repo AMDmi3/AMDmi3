@@ -28,6 +28,7 @@ My most notable projects and contributions are:
 
 <table align="center">
 	<tr>
+		<td><img src="thumbs/funnyboat.png"></td>
 		<td><img src="thumbs/qnetwalk.png"></td>
 		<td><img src="thumbs/cavezofphear.png"></td>
 	</tr>
