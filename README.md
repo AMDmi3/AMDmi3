@@ -46,5 +46,5 @@ My most notable projects and contributions are:
 	</tr>
 </table>
 
-* I took part in making classic [Vangers](https://github.com/KranX/Vangers) game cross-platform and available under Linux
-* I've contributed to [hundreds](https://www.openhub.net/accounts/AMDmi3/positions) other F/OSS projects
+* I took part in making classic [Vangers](https://github.com/KranX/Vangers) game cross-platform and available under Linux.
+* I've contributed to [hundreds](https://amdmi3.ru/contributions/) other F/OSS projects.
