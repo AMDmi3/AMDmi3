@@ -1,4 +1,4 @@
-[![AMDmi3's Github Stats](https://github-readme-stats.vercel.app/api?username=AMDmi3&count_private=true&show_icons=true&hide=stars&hide_border=true&include_all_commits=true&dummy=1)](https://github-readme-stats.vercel.app/api?username=AMDmi3&count_private=true&show_icons=true&hide=stars&hide_border=true&include_all_commits=true)
+[![AMDmi3's Github Stats](images/stats.svg)](https://github-readme-stats.vercel.app/api?username=AMDmi3&count_private=true&show_icons=true&hide=stars&hide_border=true&include_all_commits=true)
 
 My primary languages are C++ and Python, interests include FreeBSD, software packaging and F/OSS gamedev.
 
