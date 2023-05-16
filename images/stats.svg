@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Dmitry Marakasov's GitHub Stats, Rank: A+</title>
+        <title id="titleId">Dmitry Marakasov's GitHub Stats, Rank: S+</title>
         <desc id="descId">Total Commits  : 405, Total PRs: 637, Total Issues: 1526, Contributed to (last year): 47</desc>
         <style>
           .header {
@@ -67,7 +67,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 114.88023868530324;
+        stroke-dashoffset: 0;
       }
     }
   
@@ -137,7 +137,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          A+
+          S+
         </text>
       
         </g>
@@ -156,7 +156,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >270+</text>
+      >231.3k+</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
