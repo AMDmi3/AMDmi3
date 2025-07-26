@@ -6,7 +6,7 @@ My most notable projects and contributions are:
 * I maintain over 350 ports and have made over 15k commits to [FreeBSD ports collection](https://www.freebsd.org/ports/)
 * I'm author of [Repology](https://repology.org/), a service which aggregates packaging information from over 300 repositories for the benefit of software authors and package maintainers
 * I maintain some C++ libraries:
-  * [libversion](https://github.com/repology/libversion/), a library to compare software versions in all their veriety
+  * [libversion](https://github.com/repology/libversion/), a library to compare software versions in all their variety
   * [libSDLpp](https://github.com/libSDL2pp/libSDL2pp), C++ wrapper for SDL
 * I maintain some Python modules:
   * [aesqlapius](https://pypi.org/project/aesqlapius/), a tool to conveniently organize SQL queries and use them as Python API
